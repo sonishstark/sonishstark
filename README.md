@@ -20,7 +20,7 @@
 -   📫 How to reach me: [LinkedIn](www.linkedin.com/in/sonish-s)
 -   😄 Pronouns: He/His
 
-[![Linkedin: sonish-s](https://img.shields.io/badge/-sonish-s-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonish-s/)](https://www.linkedin.com/in/sonish-s/)
+[![Linkedin: sonish-s](https://img.shields.io/badge/-sonish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonish-s/)](https://www.linkedin.com/in/sonish-s/)
 [![GitHub sonishstark](https://img.shields.io/github/followers/sonishstark?label=follow&style=social)](https://github.com/sonishstark)
 
   
