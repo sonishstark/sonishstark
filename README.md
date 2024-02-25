@@ -6,7 +6,7 @@
   <img align="left" alt="Sonish's Linkdein" width="22px" src="https://cdn.icon-icons.com/icons2/1906/PNG/512/iconfinder-linkedin-4550875_121338.png" />
 </a>
 <a href="https://github.com/sonishstark/sonishstark">
-  <img align="left" alt="Sonish's Github" width="22px" src="https://files.softicons.com/download/social-media-icons/sociocons-icons-by-rohit-tripathi/ico/github-sociocon.ico" />
+  <img align="left" alt="Sonish's Github" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVl4WcD56HhxpUp7TVBQCjwRq5K22Ku682JYb3XlAznA1JOz2QFYo2rBl85PFQI4O4B_Q&usqp=CAU" />
 </a>
 
 <br/><br/>
