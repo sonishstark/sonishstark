@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonishstark&label=Views&color=blue&style=plastic" alt="sonishstark" /> </p>
 
 <a href="www.linkedin.com/in/sonish-s">
-  <img align="left" alt="Sonish's Linkdein" width="22px" src="https://i.pinimg.com/564x/d9/d9/5e/d9d95ee468e97317a201ef33b02067ac.jpg" />
+  <img align="left" alt="Sonish's Linkdein" width="22px" src="https://cdn.icon-icons.com/icons2/1906/PNG/512/iconfinder-linkedin-4550875_121338.png" />
 </a>
 <a href="https://github.com/sonishstark/sonishstark">
   <img align="left" alt="Sonish's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
