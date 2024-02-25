@@ -6,7 +6,7 @@
   <img align="left" alt="Sonish's Linkdein" width="22px" src="https://cdn.icon-icons.com/icons2/1906/PNG/512/iconfinder-linkedin-4550875_121338.png" />
 </a>
 <a href="https://github.com/sonishstark/sonishstark">
-  <img align="left" alt="Sonish's Github" width="22px" src="https://static.vecteezy.com/system/resources/previews/017/119/660/non_2x/github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector.jpg" />
+  <img align="left" alt="Sonish's Github" width="22px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" />
 </a>
 
 <br/><br/>
