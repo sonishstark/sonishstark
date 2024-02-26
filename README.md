@@ -13,7 +13,7 @@
 
 -   🔭 I’m currently working on Windows/Mac.
 -   🌱 I’m currently pursuing my Masters in Computer Science program.
--   📖 I'm student at George Washington University 🇺🇸: - Graduate(2025)
+-   📖 I'm student at George Washington University 🇺🇸 - Graduate(2025)
 -   👯 I’m actively seeking for summer 2024 interships.
 -   🤔 I’m looking for help with learning ML, DL and AI.
 -   💬 Ask me about current Digital Technology.
