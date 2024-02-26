@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonishstark&label=Views&color=blue&style=plastic" alt="sonishstark" /> </p>
 
 <a href="www.linkedin.com/in/sonish-s">
-  <img align="left" alt="Sonish's Linkdein" width="22px" src="https://cdn.icon-icons.com/icons2/1906/PNG/512/iconfinder-linkedin-4550875_121338.png" />
+  <img align="left" alt="Sonish's Linkdein" width="22px" style="padding-left:10px" src="https://cdn.icon-icons.com/icons2/1906/PNG/512/iconfinder-linkedin-4550875_121338.png" />
 </a>
 <a href="https://github.com/sonishstark/sonishstark">
   <img align="left" alt="Sonish's Github" width="22px" src="https://www.shareicon.net/download/2016/07/07/116441_media.ico" />
