@@ -10,8 +10,8 @@
 
 <br/><br/>
 
--   🔭 I’m currently working on Windows /Mac .
--   🌱 I’m currently pursuing my Masters in Computer Science program.
+-   🔭 I’m currently working on Windows <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" alt="US" width="11"/> / Mac <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="US" width="11"/>.
+-   🌱 I’m currently pursuing my Masters in Computer Science program 💻.
 -   📖 I'm student at 🧑‍🎓 George Washington University <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/us.png" alt="US" width="14"/> - Graduate(2025)
 -   👯 I’m actively seeking for summer 2024 interships.
 -   🤔 I’m looking for help with learning ML, DL and AI.
