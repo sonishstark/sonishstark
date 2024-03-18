@@ -17,7 +17,7 @@
 -   🤔 I’m looking for help with learning ML, DL and AI.
 -   💬 Ask me about current Digital Technology.
 -   📫 How to reach me: [LinkedIn](www.linkedin.com/in/sonish-s)
-- 🖥️   Check out my Portfolio website: [https://sonish-sasidharan.netlify.app/]
+- 🖥️   Check out my website: [Portfolio](https://sonish-sasidharan.netlify.app/)
 -   👦🏻 Pronouns: He/Him
 
 [![Linkedin: sonish-s](https://img.shields.io/badge/-sonish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonish-s/)](https://www.linkedin.com/in/sonish-s/)
