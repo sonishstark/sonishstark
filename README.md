@@ -11,13 +11,14 @@
 <br/><br/>
 
 -   🔭 I’m currently working on Windows <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" alt="US" width="11"/> / Mac <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="US" width="11"/>.
--   🌱 I’m currently pursuing my Masters in Computer Science program 💻.
--   📖 I'm student at 🧑‍🎓 George Washington University <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/us.png" alt="US" width="14"/> - Graduate(2025)
--   👯 I’m actively seeking for summer 2024 interships.
+-   🎓 I’m currently pursuing my Masters in Computer Science program 💻.
+-   📖 I'm student at 🧑🏻‍🎓 George Washington University <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/us.png" alt="US" width="14"/> - Graduate(2025)
+-   💼 I’m actively seeking for summer 2024 interships.
 -   🤔 I’m looking for help with learning ML, DL and AI.
 -   💬 Ask me about current Digital Technology.
 -   📫 How to reach me: [LinkedIn](www.linkedin.com/in/sonish-s)
--   😄 Pronouns: He/His
+- 🖥️   Check out my Portfolio website: [https://sonish-sasidharan.netlify.app/]
+-   👦🏻 Pronouns: He/Him
 
 [![Linkedin: sonish-s](https://img.shields.io/badge/-sonish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonish-s/)](https://www.linkedin.com/in/sonish-s/)
 [![GitHub sonishstark](https://img.shields.io/github/followers/sonishstark?label=follow&style=social)](https://github.com/sonishstark)
@@ -45,7 +46,7 @@
 <br><br>
 
 ```
-And at last some stats to show consistency 😍😉.
+And at last some stats to show consistency 📈.
 ```
 
 [![Sonish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sonishstark&bg_color=ffffff&color=9e4c98&line=9e4c98&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
