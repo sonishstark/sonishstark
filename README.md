@@ -1,4 +1,4 @@
-## Hola, I'm [Sonish Sasidharan!](www.linkedin.com/in/sonish-s) 👋
+## Hello, I'm [Sonish Sasidharan!](www.linkedin.com/in/sonish-s) 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonishstark&label=Views&color=blue&style=plastic" alt="sonishstark" /> </p>
 
 <a href="www.linkedin.com/in/sonish-s">
