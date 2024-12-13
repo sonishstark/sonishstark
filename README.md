@@ -11,8 +11,8 @@
 <br/><br/>
 
 -   🔭 I’m currently working on Windows <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="US" width="11"/> / Mac <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="US" width="11"/>.
--   🎓 I’m currently pursuing my Masters in Computer Science program 💻.
 -   📖 I'm student at 🧑🏻‍🎓 George Washington University <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/us.png" alt="US" width="14"/> - Graduate(2025)
+-   🎓 I’m currently pursuing my Masters in Computer Science program 💻.
 -   💼 I’m actively seeking Full time Job opportunities.
 -   🤔 I’m looking for help with learning Porgramming , ML and AI.
 -   💬 Ask me about current Digital Technology.
