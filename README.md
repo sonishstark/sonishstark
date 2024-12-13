@@ -10,7 +10,7 @@
 
 <br/><br/>
 
--   🔭 I’m currently working on Windows <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" alt="US" width="11"/> / Mac <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="US" width="11"/>.
+-   🔭 I’m currently working on Windows <img src="[https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg](https://preview.redd.it/ne6ukkej06t71.png?width=640&crop=smart&auto=webp&s=47bfffc51d6b6445538bc4c44410c816c6287091)" alt="US" width="11"/> / Mac <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="US" width="11"/>.
 -   🎓 I’m currently pursuing my Masters in Computer Science program 💻.
 -   📖 I'm student at 🧑🏻‍🎓 George Washington University <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/us.png" alt="US" width="14"/> - Graduate(2025)
 -   💼 I’m actively seeking Full time Job opportunities.
